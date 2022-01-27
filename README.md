@@ -1,7 +1,7 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Graciela QW</h1>
 
 
-My name is Graciela and I'm a geeky physicist trying to make it in the work of Data Analysis. 
+I'm a geeky physicist trying to make it in the work of Data Analysis. 
 
 
 
