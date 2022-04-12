@@ -6,7 +6,7 @@
 
 
 - 👩🏻‍💻 &nbsp; I’m currently working on a Google Data Analytics Professional Certificate.
-- 💪🏼 &nbsp; I’m looking to collaborate on projects that involve very entry level data analysis
+- 💪🏼 &nbsp; I’m looking to collaborate on projects that involve entry level data analysis
 - 📧 &nbsp;You can reach me by email: physics.chick3@gmail.com
 - 👩🏻 &nbsp; Pronouns: She/Her
 - 🍌 &nbsp;Fun fact: I met Nobel Prize in Physics — Sir Andre K. Geim while I was dressed in a Banana suit. 
