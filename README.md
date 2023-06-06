@@ -5,7 +5,7 @@
 
 
 
-- 👩🏻‍💻 &nbsp; I’m currently working NTTData in Barcelona.
+- 👩🏻‍💻 &nbsp; I’m currently working at NTTData as a BA in Barcelona.
 - 💪🏼 &nbsp; I’m looking to collaborate on projects that involve entry level data analysis
 - 📧 &nbsp;You can reach me by email: physics.chick3@gmail.com
 - 👩🏻 &nbsp; Pronouns: She/Her
